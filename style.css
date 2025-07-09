@@ -1,0 +1,29 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(to bottom right, #4f46e5, #6366f1);
+  color: white;
+  text-align: center;
+}
+
+header {
+  background: #3730a3;
+  padding: 1rem;
+}
+
+nav a {
+  margin: 0 1rem;
+  color: white;
+  text-decoration: none;
+}
+
+main {
+  padding: 2rem;
+}
+
+footer {
+  background: #312e81;
+  padding: 1rem;
+  font-size: 0.8rem;
+}
